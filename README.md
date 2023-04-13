@@ -1,2 +1,6 @@
 # Creditcard-Dataset-with-SVC
-This main project contains of:
+This modeling section contains of:
+- Data Splitting
+- Data Preprocessing
+- Data Training with Pipeline and GridSearchCV
+- DAta Evaluate
